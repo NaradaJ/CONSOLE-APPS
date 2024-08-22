@@ -1,0 +1,14 @@
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\bin\Debug\net8.0\CsharpMyProjects.exe
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\bin\Debug\net8.0\CsharpMyProjects.deps.json
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\bin\Debug\net8.0\CsharpMyProjects.runtimeconfig.json
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\bin\Debug\net8.0\CsharpMyProjects.dll
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\bin\Debug\net8.0\CsharpMyProjects.pdb
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\CsharpMyProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\CsharpMyProjects.AssemblyInfoInputs.cache
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\CsharpMyProjects.AssemblyInfo.cs
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\CsharpMyProjects.csproj.CoreCompileInputs.cache
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\CsharpMyProjects.dll
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\refint\CsharpMyProjects.dll
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\CsharpMyProjects.pdb
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\CsharpMyProjects.genruntimeconfig.cache
+C:\Users\NaradaJayasuriyaBIST\Desktop\Dev\C#\CONSOLE APPS\CsharpMyProjects\obj\Debug\net8.0\ref\CsharpMyProjects.dll
